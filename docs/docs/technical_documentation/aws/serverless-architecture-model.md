@@ -9,12 +9,15 @@ The AWS Serverless Application Model (AWS SAM) is a toolkit that improves the de
 ### Installation
 
 #### Download AWS SAM
+
 `wget -O aws-sam-cli-linux-x86_64.zip https://github.com/aws/aws-sam-cli/releases/latest/download/aws-sam-cli-linux-x86_64.zip`
 
 #### Unzip AWS SAM
+
 `unzip aws-sam-cli-linux-x86_64.zip -d sam-installation`
 
 #### Install AWS SAM with sudo
+
 `sudo ./sam-installation/install`
 
 #### Check AWS SAM version after install

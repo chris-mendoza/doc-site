@@ -42,6 +42,3 @@ Run build command as root as waffles:
 #### Stop Docker Container
 
 `docker stop <container id>`
-
-
-

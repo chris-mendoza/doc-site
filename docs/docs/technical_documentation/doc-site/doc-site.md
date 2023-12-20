@@ -1,3 +1,5 @@
+## Local Documentation Site
+
 In order to refresh the waffles documentation:
 
 Rebuild docker container:

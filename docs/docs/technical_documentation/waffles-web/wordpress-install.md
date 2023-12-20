@@ -2,6 +2,8 @@
 
 Installation via Docker Compose
 
+NOTE: CHANGE THE HARD CODED PASSWORDS BEFORE SERVING ANY OF THIS LIVE.
+
 `docker-compose up -d`
 
 ```yaml
