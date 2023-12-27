@@ -53,7 +53,7 @@ Run these commands in the WSL Terminal to update and install python3 packages.
 
 `python3 --version`
 
-#### Generate SSH Key Pair 
+#### Generate SSH Key Pair
 
 `ssh-keygen`
 
