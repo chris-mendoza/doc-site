@@ -7,4 +7,4 @@ version: 1.0
 
 ## Chris Mendoza Documentation
 
-Welcome to my Doc site! 
+Welcome to my Doc site!
