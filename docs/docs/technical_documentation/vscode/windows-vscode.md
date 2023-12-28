@@ -1,6 +1,6 @@
 ## VSCode on Windows
 
-VSCode DevContainer Configuration using WSL2 on Windows. 
+VSCode DevContainer Configuration using WSL2 on Windows.
 
 This guide is meant to get someone who has little knowledge using DevContainers that are included in Github Repositories.
 
