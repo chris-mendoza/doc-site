@@ -1,13 +1,10 @@
 ---
-title: waffles.nfs Documentation
-summary: waffles.nfs Documentation Home Page
-cust_website: http://waffles.nfs
-authors:
-    - Chris Mendoza
-date: 11-Dec-2023
+title: Chris Mendoza Documentation
+summary: Chris Mendoza Documentation Home Page
+cust_website: http://chris-mendoza.github.io
 version: 1.0
 ---
 
-## waffles.nfs Documentation
+## Chris Mendoza Documentation
 
-Welcome to waffles.nfs Documentation site
+Welcome to my Doc site! 

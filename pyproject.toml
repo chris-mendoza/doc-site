@@ -2,9 +2,8 @@
 name = "waffles.nfs"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Chris Mendoza <ccmendoza89@gmail.com>"]
 readme = "README.md"
-# packages = [{include = "pod-docs"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10"
