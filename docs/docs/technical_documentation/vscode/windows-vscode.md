@@ -1,35 +1,52 @@
 ## VSCode on Windows
 
-### Download VSCode Installer
+VSCode DevContainer Configuration using WSL2 on Windows.
+
+This guide is meant to get someone who has little knowledge using DevContainers that are included in Github Repositories.
+
+### Prerequisites
+
+#### Download VSCode Installer
 
 <https://code.visualstudio.com/download>
 
-### Download Docker Desktop
+#### Download Docker Desktop
 
 <https://www.docker.com/products/docker-desktop/>
 
-### Enable Subsystem for Linux
+### Install WSL2
+
+#### Enable Subsystem for Linux
 
 Open Powershell as Administrator (Start > Right Click "Powershell" > Run as Administrator...)
 
 `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 
-### Install WSL2
+#### Install Ubuntu 22.04 Subsystem
 
-```powershell
-wsl --install -d Ubuntu-22.04
+Open Powershell as Administrator (Start > Right Click "Powershell" > Run as Administrator...)
 
-wsl --set-version Ubuntu-22.04 2
+Follow these steps to install the Ubuntu 22.04 Subsystem:
 
-wsl -s Ubuntu-22.04
+Download/Install:
 
-#Note: You will prompted to create a username and password here
+`wsl --install -d Ubuntu-22.04`
 
-#Verify Version of Ubuntu-22.04 is installed and set to default
-wsl -l -v
-```
+Set Default Version of WSL to '2':
 
-### Open WSL Terminal
+`wsl --set-version Ubuntu-22.04 2`
+
+Set Default WSL Runtime to Ubuntu-22.04:
+
+`wsl -s Ubuntu-22.04`
+
+Note: You will prompted to create a username and password here. I use username: 'vscode' with a strong password that I will remember.
+
+Verify Version of Ubuntu-22.04 is installed and set to default
+
+`wsl -l -v`
+
+#### Open WSL Terminal
 
 Type `wsl` in powershell or Open `wsl` from start menu.
 
@@ -53,6 +70,25 @@ Run these commands in the WSL Terminal to update and install python3 packages.
 
 `python3 --version`
 
+### Open VSCode with DevContainer
+
+Create your own .devcontainer directory with `devcontainer.json` and `Dockerfile` configurations, but typically these come included in a Github repository.
+
+Example respository:
+<https://github.com/chris-mendoza/chris-mendoza.github.io>
+
+Once the .devcontainer directory and files have been configured, open Visual Studio Code from within the WSL2 Terminal:
+
+```bash
+git clone git@github.com:chris-mendoza/chris-mendoza.github.io.git
+cd chris-mendoza.github.io
+code .
+```
+
+Once VSCode opens, you will be prompted to re-open the files from within a DevContainer. If this is the first time opening a specific directory, you will also need to "Trust the authors" if you do indeed trust them.
+
+### Github Configuration
+
 #### Generate SSH Key Pair
 
 `ssh-keygen`
@@ -61,9 +97,19 @@ Run these commands in the WSL Terminal to update and install python3 packages.
 
 <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys>
 
-### Install VSCode Plugins
+### Recommended VSCode Plugins
 
 - Docker
 - DevContainers
 - Indent One Space
 - WSL2
+
+### Deeper Reading
+
+#### VSCode Dev Containers
+
+<https://code.visualstudio.com/docs/devcontainers/containers>
+
+#### Windows Subsystem for Linux (WSL)
+
+<https://learn.microsoft.com/en-us/windows/wsl/about>
