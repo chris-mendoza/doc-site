@@ -89,9 +89,47 @@ Once VSCode opens, you will be prompted to re-open the files from within a DevCo
 
 ### Github Configuration
 
+Configure your Git Email and Username in the VSCode DevContainer terminal.
+
+#### Configure Git Email
+
+`git config --global user.email "username@emaildomain.com"`
+
+#### Configure Git Username
+
+`git config --global user.name "username"`
+
 #### Generate SSH Key Pair
 
 `ssh-keygen`
+
+Set permissions on the new Keypair:
+
+`chmod 600 ~/.ssh/id_rsa`
+
+#### Sample SSH Configuration
+
+~/.ssh/config
+
+    Host github.com
+    HostName github.com
+    PubkeyAuthentication yes
+    ForwardAgent yes
+    User git
+    IdentityFile ~/.ssh/id_rsa
+    IdentitiesOnly yes
+
+Command to generate `~/.ssh/config` file:
+
+```bash
+echo "Host github.com
+HostName github.com
+PubkeyAuthentication yes
+ForwardAgent yes
+User git
+IdentityFile ~/.ssh/id_rsa
+IdentitiesOnly yes" > ~/.ssh/config
+```
 
 #### Add SSH Key to Github Repository
 
