@@ -1,9 +1,9 @@
-site_name: waffles.nfs
+site_name: chris.mendoza.github.io
 site_description: Documentation Site
 site_author: ""
 site_url: 
-repo_name: waffles.nfs
-repo_url: http://waffles.nfs
+repo_name: chris-mendoza.github.io
+repo_url: https://chris-mendoza.github.io
 # EDIT LINES ABOVE THIS ONE FOR A NEW REPOSITORY
 edit_uri: "edit/main/docs/docs/"
 docs_dir: docs
