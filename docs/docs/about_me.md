@@ -9,11 +9,16 @@ version: 1.0
 
 ### Education
 
+ITT Technical Institute - Associate of Applied Science (Computers)
+
 ### Experience
 
+#### Rackspace
+
+Monitoring Administrator
 Linux Administrator  
 Windows Administrator  
-Dev Ops Engineer  
+Dev Ops Engineer 
 Cloud Engineer
 
 ### Certifications
