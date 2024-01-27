@@ -9,17 +9,25 @@ version: 1.0
 
 ### Education
 
-ITT Technical Institute - Associate of Applied Science (Computers)
+ITT Technical Institute - Graduated July 2009 - Associate of Applied Science (Computers)
 
 ### Experience
 
 #### Rackspace
 
-Monitoring Administrator
-Linux Administrator  
-Windows Administrator  
-Dev Ops Engineer 
-Cloud Engineer
+Cloud Engineer (Current)  
+Dev Ops Engineer (2014-2016)  
+Windows Administrator (2013-2014)  
+Linux Administrator  (2011-2013)  
+Monitoring Administrator (2009-2010)  
+
+### Skills
+
+- AWS Cloud
+- DevOps
+- Linux
+- Windows
+- Python
 
 ### Certifications
 

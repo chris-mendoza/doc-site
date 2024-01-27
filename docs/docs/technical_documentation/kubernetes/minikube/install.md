@@ -22,4 +22,3 @@ Minikube Addon List
 
 Delete all Minikube Clusters:
 `minikube delete --all`
-
