@@ -1,6 +1,6 @@
 ---
 title: About Me
-summary: 
+summary: Chris Mendoza - Technical Profile
 cust_website: https://chris-mendoza.github.io
 version: 1.0
 ---
