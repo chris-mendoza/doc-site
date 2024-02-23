@@ -12,9 +12,9 @@ Experienced DevOps Professional with over 10 years of experience with Informatio
 | Amazon Web Services    | DevOps                 | Scripting  | Operating Systems | Containers |
 |:----------------------:|:----------------------:|:----------:|:-----------------:|:----------:|
  Developer Tools         | Agile/Scrum            | Bash       | Linux             | Docker
- Management & Governance | Confluence             | Powershell | Mac               | Packer
- Networking              | Github                 | Python     | Windows           |
- Operations Tools        | Jira                   |            |                   |
+ Management & Governance | CI/CD                  | Powershell | Mac               | Packer
+ Networking              | Confluence/Jira        | Python     | Windows           |
+ Operations Tools        | Github                 |            |                   |
  Security                | Infrastructure As Code |            |                   |
 
 ## Certifications
