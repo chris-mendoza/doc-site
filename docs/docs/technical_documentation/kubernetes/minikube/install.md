@@ -2,7 +2,9 @@
 
 https://minikube.sigs.k8s.io/docs/start/
 
-`time minikube start`
+### Create Minikube with Profile
+
+`time minikube start -p my-profile`
 
 View all pods in All Namespaces:
 

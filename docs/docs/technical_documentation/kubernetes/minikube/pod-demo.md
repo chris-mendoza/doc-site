@@ -1,5 +1,7 @@
 ## Demo Minikube Application
 
+`kubectl apply -f /path/to/config.yaml`
+
 ```yaml
 kind: Pod
 apiVersion: v1

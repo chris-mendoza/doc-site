@@ -7,27 +7,26 @@ version: 1.0
 
 ## About Me
 
-### Education
-
-ITT Technical Institute - Graduated July 2009 - Associate of Applied Science (Computers)
-
-### Experience
-
-#### Rackspace
-
-Cloud Engineer (Current)  
-Dev Ops Engineer (2014-2016)  
-Windows Administrator (2013-2014)  
-Linux Administrator  (2011-2013)  
-Monitoring Administrator (2009-2010)  
+DevOps Professional with over 10 years of experience working with various technologies.
 
 ### Skills
 
 - AWS Cloud
 - DevOps
-- Linux
-- Windows
-- Python
+    - Agile/Scrum
+    - Confluence
+    - Jira
+    - Github
+    - Configuration Management
+    - Infrastructure As Code
+- Operating Systems
+    - Linux
+    - Windows
+- Scripting
+    - Bash
+    - Powershell
+    - Python
+- Docker
 
 ### Certifications
 
