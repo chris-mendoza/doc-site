@@ -7,11 +7,11 @@ version: 1.0
 
 ## About Me
 
-Experienced DevOps Professional with over 10 years of experience engaged in projects that utilize a variety of technologies focused in .
+Experienced DevOps Professional with over 10 years of experience with Information Technology primarily focused on Cloud-based infrastructure.
 
 ### Skills
 
-| AWS Cloud              | DevOps                 | Scripting  | Operating Systems | Containers |
+| Amazon Web Services    | DevOps                 | Scripting  | Operating Systems | Containers |
 |:----------------------:|:----------------------:|:----------:|:-----------------:|:----------:|
  Developer Tools         | Agile/Scrum            | Bash       | Linux             | Docker
  Management & Governance | Confluence             | Powershell | Mac               | Packer
