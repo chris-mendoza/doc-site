@@ -5,7 +5,7 @@ cust_website: https://chris-mendoza.github.io
 version: 1.0
 ---
 
-Experienced DevOps Professional with over 10 years of experience with Information Technology primarily focused on Cloud-based infrastructure.
+Experienced DevOps Professional with over 10 years of experience with Information Technology primarily focused on projects that utilize Cloud-based infrastructure.
 
 ## Skills
 
