@@ -7,26 +7,17 @@ version: 1.0
 
 ## About Me
 
-DevOps Professional with over 10 years of experience working with various technologies.
+Experienced DevOps Professional with over 10 years of experience engaged in projects that utilize a variety of technologies focused in .
 
 ### Skills
 
-- AWS Cloud
-- DevOps
-    - Agile/Scrum
-    - Confluence
-    - Jira
-    - Github
-    - Configuration Management
-    - Infrastructure As Code
-- Operating Systems
-    - Linux
-    - Windows
-- Scripting
-    - Bash
-    - Powershell
-    - Python
-- Docker
+| AWS Cloud              | DevOps                 | Scripting  | Operating Systems | Containers |
+|:----------------------:|:----------------------:|:----------:|:-----------------:|:----------:|
+ Developer Tools         | Agile/Scrum            | Bash       | Linux             | Docker
+ Management & Governance | Confluence             | Powershell | Mac               | Packer
+ Networking              | Github                 | Python     | Windows           |
+ Operations Tools        | Jira                   |            |                   |
+ Security                | Infrastructure As Code |            |                   |
 
 ### Certifications
 
