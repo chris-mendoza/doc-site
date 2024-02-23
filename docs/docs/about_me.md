@@ -1,15 +1,13 @@
 ---
 title: About Me
-summary: About Me
+summary: 
 cust_website: https://chris-mendoza.github.io
 version: 1.0
 ---
 
-## About Me
-
 Experienced DevOps Professional with over 10 years of experience with Information Technology primarily focused on Cloud-based infrastructure.
 
-### Skills
+## Skills
 
 | Amazon Web Services    | DevOps                 | Scripting  | Operating Systems | Containers |
 |:----------------------:|:----------------------:|:----------:|:-----------------:|:----------:|
@@ -19,7 +17,7 @@ Experienced DevOps Professional with over 10 years of experience with Informatio
  Operations Tools        | Jira                   |            |                   |
  Security                | Infrastructure As Code |            |                   |
 
-### Certifications
+## Certifications
 
 <a href="https://www.credly.com/badges/95db9a84-6c6d-4bbc-8d45-5f05ff71125e/public_url"><img src="/assets/images/certs/aws-certified-devops-engineer-professional.png" height="100" width="125"></a>
 <a href="https://www.credly.com/badges/e603f0bd-a597-4f56-9932-4f03c6aa98a5/public_url"><img src="/assets/images/certs/aws-certified-developer-associate.png" height="100" width="125"></a>
