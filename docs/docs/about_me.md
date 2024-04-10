@@ -1,11 +1,9 @@
 ---
-title: Christopher Mendoza
+title: Professional Summary
 summary: Christopher Mendoza - Technical Profile
 cust_website: https://chris-mendoza.github.io
 version: 1.0
 ---
-
-## Professional Summary
 
 Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience in delivering solutions that align with AWS best practices. Accustomed to developing strategies that align with organizational objectives in a high velocity environment.
 
