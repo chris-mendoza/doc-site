@@ -1,21 +1,53 @@
 ---
-title: About Me
-summary: Chris Mendoza - Technical Profile
+title: Professional Summary
+summary: Christopher Mendoza - Technical Profile
 cust_website: https://chris-mendoza.github.io
 version: 1.0
 ---
 
-Experienced DevOps Professional with over 10 years of experience in Information Technology primarily focused on projects that utilize Cloud-based infrastructure.
+Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience in delivering solutions that align with AWS best practices. Accustomed to developing strategies that align with organizational objectives in a high velocity environment.
 
-## Skills
+## Experience
 
-| Amazon Web Services    | DevOps                 | Scripting  | Operating Systems | Containers |
-|:----------------------:|:----------------------:|:----------:|:-----------------:|:----------:|
- Developer Tools         | Agile/Scrum            | Bash       | Linux             | Docker
- Management & Governance | CI/CD                  | Powershell | Mac               | Packer
- Networking              | Confluence/Jira        | Python     | Windows           |
- Operations Tools        | Github                 |            |                   |
- Security                | Infrastructure As Code |            |                   |
+### Rackspace Technology
+
+#### AWS Cloud Engineer III - (2016-2024)
+
+- Architected highly available, scalable, and secure solutions for both internal and customer-facing environments across 6 global regions.
+- Managed and tracked configurations, procedures and projects with Confluence, Github, and Jira.
+- Proactively identified and created opportunities to optimize cost and overall security.
+- Collaborated with a global team to evolve and improve operational excellence across our organization.
+
+#### DevOps Engineer II - (2014-2016)
+
+- Configuration Management with Chef & Ansible.
+- Provisioned New Relic across environments to monitor application performance.
+- Utilized as well as maintained internal Atlassian and Github server products.
+- Managed automated build and continuous software integration in CircleCI and Jenkins.
+
+#### Windows Administrator - (2013-2014)
+
+- Customer-Facing Hybrid Cloud and Dedicated Windows based Support.
+- Built and maintained various scripts in Powershell and Batch to manage fleets of Windows.
+- Performed routine maintenance on common Microsoft Services such as: Active Directory, DNS, IIS, MSSQL, Remote Desktop Server.
+
+#### Linux Administrator - (2011- 2013)
+
+- Customer-facing cloud infrastructure & Linux operating system support.
+- Contributed to complex automated procedures using `bash` and `python` scripting.
+- Configured and maintained common Linux services: Apache, Dovecot, Nginx, MySQL, MariaDB, Memcached, PostgreSQL, Redis, Tomcat.
+
+#### Monitoring Administrator - (2010 – 2011)
+
+- Alert configuration and incident response for generic service alerts and synthetic transaction monitoring.
+- Troubleshoot issues related to active alerts on dedicated Linux and Windows instances.
+- Contributed to documentation regarding alert handling and troubleshooting procedures.
+
+## Education
+
+### ITT Technical Institute (2010) - Associate of Applied Science (Computers)
+
+---
 
 ## Certifications
 
