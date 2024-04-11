@@ -17,6 +17,7 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 - Managed and tracked configurations, procedures and projects with Confluence, Github, and Jira.
 - Proactively identified and created opportunities to optimize cost and overall security.
 - Collaborated with a global team to evolve and improve operational excellence across our organization.
+- Created training and support standards to drive optimal project execution rates.
 
 #### DevOps Engineer II - (2014-2016)
 
@@ -24,24 +25,30 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 - Provisioned New Relic across environments to monitor application performance.
 - Utilized as well as maintained internal Atlassian and Github server products.
 - Managed automated build and continuous software integration in CircleCI and Jenkins.
+- Performed maintenance on high profile MySQL databases utilizing cluster and/or replication.
 
-#### Windows Administrator - (2013-2014)
+#### Windows Administrator - Rackspace Hosting - (2013-2014)
 
 - Customer-Facing Hybrid Cloud and Dedicated Windows based Support.
 - Built and maintained various scripts in Powershell and Batch to manage fleets of Windows.
 - Performed routine maintenance on common Microsoft Services such as: Active Directory, DNS, IIS, MSSQL, Remote Desktop Server.
+- Implemented networking solutions that securely connected datacenter hardware to cloud resources.
+- Worked with data center operations to rescue and troubleshoot server hardware.
 
-#### Linux Administrator - (2011- 2013)
+#### Linux Administrator - Rackspace Cloud - (2011-2013)
 
 - Customer-facing cloud infrastructure & Linux operating system support.
 - Contributed to complex automated procedures using `bash` and `python` scripting.
-- Configured and maintained common Linux services: Apache, Dovecot, Nginx, MySQL, MariaDB, Memcached, PostgreSQL, Redis, Tomcat.
+- Configured and maintained common Linux services: Apache, Dovecot, Nginx, MySQL, MariaDB, Memcached, PHP, PostgreSQL, Redis, Tomcat.
+- Supported server side configuration of LAMP stack applications: Magento, Wordpress.
 
-#### Monitoring Administrator - (2010 – 2011)
+#### Monitoring Administrator - Rackspace Hosting - (2010–2011)
 
 - Alert configuration and incident response for generic service alerts and synthetic transaction monitoring.
 - Troubleshoot issues related to active alerts on dedicated Linux and Windows instances.
 - Contributed to documentation regarding alert handling and troubleshooting procedures.
+- Worked with data center operations to rescue and troubleshoot server hardware.
+- Orchestrated the restoration of backups for any failed servers.
 
 ## Education
 
