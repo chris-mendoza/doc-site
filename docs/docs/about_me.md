@@ -59,8 +59,6 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 - Worked with data center operations to rescue and troubleshoot server hardware.
 - Orchestrated the restoration of backups for any failed servers.
 
----
-
 ## Skills
 
 +------------------------------------------------------------------------+-----------------------------------------------------+
@@ -71,13 +69,9 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 | - Containers (Docker, ECS, ECR)                                        | - Strong communication and collaboration            |
 +------------------------------------------------------------------------+-----------------------------------------------------+
 
----
-
 ## Education
 
 ### ITT Technical Institute (2010) - Associate of Applied Science (Computers)
-
----
 
 ## Certifications
 
