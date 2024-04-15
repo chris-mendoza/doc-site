@@ -11,15 +11,23 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 
 ### Rackspace Technology
 
-#### AWS Cloud Engineer III - (2016-2024)
+#### AWS Cloud Engineer III - Elastic Engineering (2021-2024)
+
+- Acted as lead engineer for a handful of high profile customers.
+- Managed and tracked configurations, procedures and projects with Confluence, Github, and Jira.
+- Created highly customized projects and complex solutions utilizing a wide variety of AWS Services.
+- Collaborated within a small team that followed Agile methodologies to plan both projects as well as ad-hoc tasks.
+- Proactively identified and created opportunities to optimize cost and overall security.
+
+#### AWS Cloud Engineer II - Fanatical Support for AWS (2016-2021)
 
 - Architected highly available, scalable, and secure solutions for both internal and customer-facing environments across 6 global regions.
 - Managed and tracked configurations, procedures and projects with Confluence, Github, and Jira.
-- Proactively identified and created opportunities to optimize cost and overall security.
+- Highly involved in the recruitment and interview process for potential candidates.
 - Collaborated with a global team to evolve and improve operational excellence across our organization.
-- Created training and support standards to drive optimal project execution rates.
+- Created training and support standards to drive highly successful execution rates.
 
-#### DevOps Engineer II - (2014-2016)
+#### DevOps Engineer II - Rackspace Devops as a Service (2014-2016)
 
 - Configuration Management with Chef & Ansible.
 - Provisioned New Relic across environments to monitor application performance.
@@ -27,13 +35,13 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 - Managed automated build and continuous software integration in CircleCI and Jenkins.
 - Performed maintenance on high profile MySQL databases utilizing cluster and/or replication.
 
-#### Windows Administrator - Rackspace Hosting - (2013-2014)
+#### Windows Administrator - Rackspace Corporate Windows - (2013-2014)
 
 - Customer-Facing Hybrid Cloud and Dedicated Windows based Support.
 - Built and maintained various scripts in Powershell and Batch to manage fleets of Windows.
 - Performed routine maintenance on common Microsoft Services such as: Active Directory, DNS, IIS, MSSQL, Remote Desktop Server.
 - Implemented networking solutions that securely connected datacenter hardware to cloud resources.
-- Worked with data center operations to rescue and troubleshoot server hardware.
+- Involved in high level decisions and maintenances on business critical MSSQL and Domain Clusters.
 
 #### Linux Administrator - Rackspace Cloud - (2011-2013)
 
@@ -41,6 +49,7 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 - Contributed to complex automated procedures using `bash` and `python` scripting.
 - Configured and maintained common Linux services: Apache, Dovecot, Nginx, MySQL, MariaDB, Memcached, PHP, PostgreSQL, Redis, Tomcat.
 - Supported server side configuration of LAMP stack applications: Magento, Wordpress.
+- Experience working with a remote team to troubleshoot physical hardware and network issues.
 
 #### Monitoring Administrator - Rackspace Hosting - (2010–2011)
 
@@ -49,6 +58,20 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 - Contributed to documentation regarding alert handling and troubleshooting procedures.
 - Worked with data center operations to rescue and troubleshoot server hardware.
 - Orchestrated the restoration of backups for any failed servers.
+
+---
+
+## Skills
+
++------------------------------------------------------------------------+-----------------------------------------------------+
+| - AWS Services (EC2, RDS, Lambda, OpenSearch, Sagemaker)               | - Version Control: Bitbucket, CodeCommit, Github    |
+| - CI/CD Pipeline Implementation                                        | - Operating System Administration: Linux/Windows    |
+| - Infrastructure as Code tools (Cloudformation, Terraform)             | - Networking and security                           |
+| - Configuration Management(Ansible, Chef)                              | - Performance and Cost Optimization                 |  
+| - Containers (Docker, ECS, ECR)                                        | - Strong communication and collaboration            |
++------------------------------------------------------------------------+-----------------------------------------------------+
+
+---
 
 ## Education
 
