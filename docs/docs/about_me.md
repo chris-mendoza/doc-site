@@ -37,8 +37,8 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 
 #### Windows Administrator - Rackspace Corporate Windows - (2013-2014)
 
-- Customer-Facing Hybrid Cloud and Dedicated Windows based Support.
-- Built and maintained various scripts in Powershell and Batch to manage fleets of Windows.
+- Supported Customers running Windows 2003, 2008, and 2012 R2 Server.
+- Built and maintained various scripts in Powershell and Batch to perform tasks on fleets of Windows.
 - Performed routine maintenance on common Microsoft Services such as: Active Directory, DNS, IIS, MSSQL, Remote Desktop Server.
 - Implemented networking solutions that securely connected datacenter hardware to cloud resources.
 - Involved in high level decisions and maintenances on business critical MSSQL and Domain Clusters.
