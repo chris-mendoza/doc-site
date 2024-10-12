@@ -4,7 +4,7 @@ summary: Christopher Mendoza - Technical Profile
 cust_website: https://chris-mendoza.github.io
 version: 1.0
 ---
- 
+
 Experienced Cloud DevOps Engineer with over 14 years of expertise in delivering cloud-based solutions, optimizing infrastructures, and implementing automation strategies. Proven track record of driving operational excellence, cost efficiency, and security enhancements in high-velocity environments. Collaborative leader with a commitment to aligning technical solutions with business objectives.
 
 ## Skills
@@ -22,6 +22,7 @@ Experienced Cloud DevOps Engineer with over 14 years of expertise in delivering 
 ## Experience
 
 ### Price Technologies - Head of DevOps Engineering (May 2024 - Current)
+
 - Develop and maintain technical documentation to ensure smooth operations and effective knowledge sharing.
 - Manage site reliability and incident response for AWS environments, ensuring system stability and performance.
 - Enhance SEO strategies using Bing Webmasters, Google Search Console, and Prerender to improve site visibility.
@@ -68,8 +69,9 @@ Experienced Cloud DevOps Engineer with over 14 years of expertise in delivering 
 
 ## Education
 
-### ITT Technical Institute (2010) 
-Associate of Applied Science (Computers)
+### ITT Technical Institute (2010)
+
+- Associate of Applied Science (Computers)
 
 ## Certifications
 
