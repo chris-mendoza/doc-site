@@ -44,7 +44,7 @@ COPY --chown=${USERNAME} requirements.txt /tmp/pip-tmp/
 COPY --chown=${USERNAME} .pre-commit-config.yaml .
 RUN pip3 --disable-pip-version-check --no-cache-dir install --user -r /tmp/pip-tmp/requirements.txt
 RUN git init && \
-    pre-commit install-hooks && \
+    #pre-commit install-hooks && \
     rm -rf .git && \
     rm -rf /tmp/pip-tmp
 
