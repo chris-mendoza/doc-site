@@ -4,12 +4,43 @@ summary: Christopher Mendoza - Technical Profile
 cust_website: https://chris-mendoza.github.io
 version: 1.0
 ---
+ 
+Experienced Cloud DevOps Engineer with over 14 years of expertise in delivering cloud-based solutions, optimizing infrastructures, and implementing automation strategies. Proven track record of driving operational excellence, cost efficiency, and security enhancements in high-velocity environments. Collaborative leader with a commitment to aligning technical solutions with business objectives.
 
-Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience in delivering solutions that align with industry best practices. Accustomed to developing strategies that align with organizational objectives in a high velocity environment.
+## Skills
+
++---------------------------------------------------------------------+------------------------------------------------------------------------+
+| - **Cloud Platforms** Azure, AWS                                    | - **Collaboration Tools** Bitbucket, CodeCommit, Github                |
+| - **CI/CD**                                                         | - **Automation & Scripting** Bash, Python                              |
+|    Jenkins, Azure DevOps, Git Workflows, AWS Code Pipeline          | - **Performance & Cost Optimization** AWS Cost Management, Rightsizing |
+| - **Infrastructure as Code** Terraform, Terragrunt                  | - **Containers** Docker, ECS, ECR                                      |
+| - **Configuration Management** Ansible, Chef                        | - **Atlassian** Bitbucket, Jira, Confluence                            |
+| - **Security Best Practices** IAM, VPC, Security Groups, WAF        | - **Leadership & Collaboration:**                                      |
+| - **Monitoring & Logging** New Relic, CloudWatch, Nagios            |     Cross-team management, Organizational Change                       |
++---------------------------------------------------------------------+------------------------------------------------------------------------+
 
 ## Experience
 
-### Rackspace Technology
+### Price Technologies - Head of DevOps Engineering (May 2024 - Current)
+- Develop and maintain technical documentation to ensure smooth operations and effective knowledge sharing.
+- Manage site reliability and incident response for AWS environments, ensuring system stability and performance.
+- Enhance SEO strategies using Bing Webmasters, Google Search Console, and Prerender to improve site visibility.
+- Implement proactive monitoring systems for early detection of anomalies and potential downtimes.
+- Collaborate with teams to bridge knowledge gaps and foster collaborative problem-solving for key projects.
+- Identify opportunities for cost efficiency across AWS infrastructure without compromising performance, scalability, or security.
+- Work closely with stakeholders to implement infrastructure improvements that enhance both organizational efficiency and customer experience.
+
+### OWC - DevOps Consultant (May 2024 - Current)
+
+- Contribute to Software Engineering documentation, processes, and workflows in Azure DevOps.
+- Create and manage CI/CD pipelines in Azure DevOps, Jenkins, and Octopus Deploy.
+- Advise on and manage hybrid infrastructure (On-Prem/Azure).
+- Lead migrations, including Confluence to SharePoint and ColdFusion 10 to Lucee.
+- Perform database administration tasks, such as MySQL tuning and MSSQL view creation.
+- Mentor team members to enhance platform knowledge and improve project outcomes.
+- Optimize the current CraftCMS PHP environment and advise on local development using VSCode Dev Containers.
+
+### Rackspace Technology (2010 - 2024)
 
 #### AWS Cloud Engineer III - Elastic Engineering (2021-2024)
 
@@ -35,43 +66,10 @@ Dedicated and knowledgable AWS DevOps Engineer with over 13 years of experience 
 - Managed automated build and continuous software integration in CircleCI and Jenkins.
 - Performed maintenance on high profile MySQL databases utilizing cluster and/or replication.
 
-#### Windows Administrator - Rackspace Corporate Windows - (2013-2014)
-
-- Supported Customers running Windows 2003, 2008, and 2012 R2 Server.
-- Built and maintained various scripts in Powershell and Batch to perform tasks on fleets of Windows.
-- Performed routine maintenance on common Microsoft Services such as: Active Directory, DNS, IIS, MSSQL, Remote Desktop Server.
-- Implemented networking solutions that securely connected datacenter hardware to cloud resources.
-- Involved in high level decisions and maintenances on business critical MSSQL and Domain Clusters.
-
-#### Linux Administrator - Rackspace Cloud - (2011-2013)
-
-- Customer-facing cloud infrastructure & Linux operating system support.
-- Contributed to complex automated procedures using `bash` and `python` scripting.
-- Configured and maintained common Linux services: Apache, Dovecot, Nginx, MySQL, MariaDB, Memcached, PHP, PostgreSQL, Redis, Tomcat.
-- Supported server side configuration of LAMP stack applications: Magento, Wordpress.
-- Experience working with a remote team to troubleshoot physical hardware and network issues.
-
-#### Monitoring Administrator - Rackspace Hosting - (2010–2011)
-
-- Alert configuration and incident response for generic service alerts and synthetic transaction monitoring.
-- Troubleshoot issues related to active alerts on dedicated Linux and Windows instances.
-- Contributed to documentation regarding alert handling and troubleshooting procedures.
-- Worked with data center operations to rescue and troubleshoot server hardware.
-- Orchestrated the restoration of backups for any failed servers.
-
-## Skills
-
-+------------------------------------------------------------------------+-----------------------------------------------------+
-| - AWS Services (EC2, RDS, Lambda, OpenSearch, Sagemaker)               | - Version Control: Bitbucket, CodeCommit, Github    |
-| - CI/CD Pipeline Implementation                                        | - Operating System Administration: Linux/Windows    |
-| - Infrastructure as Code tools (Cloudformation, Terraform)             | - Networking and security                           |
-| - Configuration Management(Ansible, Chef)                              | - Performance and Cost Optimization                 |  
-| - Containers (Docker, ECS, ECR)                                        | - Strong communication and collaboration            |
-+------------------------------------------------------------------------+-----------------------------------------------------+
-
 ## Education
 
-### ITT Technical Institute (2010) - Associate of Applied Science (Computers)
+### ITT Technical Institute (2010) 
+Associate of Applied Science (Computers)
 
 ## Certifications
 
